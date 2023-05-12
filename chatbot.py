@@ -1,7 +1,7 @@
 import openai
 import gradio as gr
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 messages = [
     {
