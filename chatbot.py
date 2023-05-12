@@ -10,8 +10,6 @@ messages = [
     },
 ]
 
-server = app.server
-
 def chatbot(input):
     if input:
         messages.append(
